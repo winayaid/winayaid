@@ -1,7 +1,7 @@
 # Hi, I'm Winaya!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+UCSD;Robotics+%26+AI+Enthusiast;Physics+Olympiad+Medalist;Content+Creator](https://readme-typing-svg.herokuapp.com/demo/?color=FFFF0000&lines=Winaya+Zarkasih;Software+Engineer;AI+Enthusiast)" alt="Typing SVG" />
+  <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)" alt="Typing SVG" />
   
 </div>
 
@@ -52,10 +52,9 @@
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-59666C?style=for-the-badge&logo=beautifulsoup&logoColor=white)
 
-
-  <br>
-  
+<div align="center">
   ### 🌐 Visit My Website
   [![Website](https://img.shields.io/badge/🚀%20winaya.id-4285F4?style=for-the-badge&logoColor=white)](https://winaya.id)
+</div>
 
 </div>
