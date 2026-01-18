@@ -3,19 +3,15 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+UCSD;Robotics+%26+AI+Enthusiast;Physics+Olympiad+Medalist;Content+Creator](https://readme-typing-svg.herokuapp.com/demo/?color=FFFF0000&lines=Winaya+Zarkasih;Software+Engineer;AI+Enthusiast)" alt="Typing SVG" />
   
-  <br>
-  
-  ### 🌐 Visit My Website
-  [![Website](https://img.shields.io/badge/🚀%20winaya.id-4285F4?style=for-the-badge&logoColor=white)](https://winaya.id)
 </div>
 
 
 
 ##  About Me
 
-🤖 **Software Engineer with Frontend specialist** 
-🧠 Passionate about **Software Engineering**, **UI Development**, **Backend Integration**, and **AI Integration**   
-🏆 **3rd  Place Winner in National Web Development Competition DINAMIK UPI 2019, Bandung** & **Tensorflow Developer Certified**  
+🤖 **Software Engineer with Frontend specialist** <br>
+🧠 Passionate about **Software Engineering**, **UI Development**, **Backend Integration**, and **AI Integration** <br>
+🏆 **3rd Place Winner in National Web Development Competition DINAMIK UPI 2019, Bandung** & **Tensorflow Developer Certified**
 
 ---
 
@@ -30,22 +26,22 @@
 ### 🌐 Frontend Web
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-#42B883?style=for-the-badge&logo=nextdotjs&logoColor=#35495E)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-##00C48D?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=#35495E)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C48D?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 
 ### 🌐 Mobile App
-![React Native](https://img.shields.io/badge/ReactNative-#0081A3?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/ReactNative-0081A3?style=for-the-badge&logo=reactnative&logoColor=white)
 
 ### 🗄️ Backend
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-#E0234E?style=for-the-badge&logo=express&logoColor=#E0234E)
+![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestdotjs&logoColor=#E0234E)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🗄️ Databases & Backend
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-#0064A5?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-#F29111?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0064A5?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🤖 AI/ML & Data Science
@@ -55,5 +51,11 @@
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-59666C?style=for-the-badge&logo=beautifulsoup&logoColor=white)
+
+
+  <br>
+  
+  ### 🌐 Visit My Website
+  [![Website](https://img.shields.io/badge/🚀%20winaya.id-4285F4?style=for-the-badge&logoColor=white)](https://winaya.id)
 
 </div>
