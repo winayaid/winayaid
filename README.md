@@ -1,8 +1,7 @@
 # Hi, I'm Winaya!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" />
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Frontend+Web+%26+Mobile;AI+Integration" alt="Typing SVG" />
 </div>
 
 
@@ -30,16 +29,16 @@
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C48D?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 
 ### 🌐 Mobile App
-![React Native](https://img.shields.io/badge/ReactNative-0081A3?style=for-the-badge&logo=reactnative&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-0081A3?style=for-the-badge&logo=react&logoColor=white)
 
 ### 🗄️ Backend
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestdotjs&logoColor=#E0234E)
+![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🗄️ Databases & Backend
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0064A5?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -52,9 +51,12 @@
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-59666C?style=for-the-badge&logo=beautifulsoup&logoColor=white)
 
+
 <div align="center">
-  ### 🌐 Visit My Website
-  [![Website](https://img.shields.io/badge/🚀%20winaya.id-4285F4?style=for-the-badge&logoColor=white)](https://winaya.id)
-</div>
+
+### 🌐 Visit My Website
+
+[![Website](https://img.shields.io/badge/🚀%20winaya.id-4285F4?style=for-the-badge&logoColor=white)](https://winaya.id)
 
 </div>
+
