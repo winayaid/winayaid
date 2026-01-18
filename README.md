@@ -56,7 +56,6 @@
 ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-59666C?style=for-the-badge&logo=beautifulsoup&logoColor=white)
 
 <br />
-<br />
 <div align="center">
 
 ### 🌐 Visit My Website
