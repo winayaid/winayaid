@@ -1,8 +1,12 @@
 # Hi, I'm Winaya!
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Frontend+Web+%26+Mobile;AI+Integration" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Frontend+Web+%26+Mobile;AI+Integration" 
+    alt="Typing SVG" 
+  />
+</p>
+
 
 
 
@@ -51,7 +55,9 @@
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-59666C?style=for-the-badge&logo=beautifulsoup&logoColor=white)
 
-
+<br />
+<br />
+<br />
 <div align="center">
 
 ### 🌐 Visit My Website
