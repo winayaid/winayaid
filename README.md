@@ -12,7 +12,7 @@
 
 ##  About Me
 
-🤖 **Software Engineer with Frontend specialist** <br>
+🤖 **Software Engineer with a specialization in Frontend Development** <br>
 🧠 Passionate about **Software Engineering**, **UI Development**, **Backend Integration**, and **AI Integration** <br>
 🏆 **3rd Place Winner in National Web Development Competition DINAMIK UPI 2019, Bandung** & **Tensorflow Developer Certified**
 
@@ -55,7 +55,6 @@
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-59666C?style=for-the-badge&logo=beautifulsoup&logoColor=white)
 
-<br />
 <br />
 <br />
 <div align="center">
