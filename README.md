@@ -14,7 +14,7 @@
 
 🤖 **Software Engineer with a specialization in Frontend Development** <br>
 🧠 Passionate about **Software Engineering**, **UI Development**, **Backend Integration**, and **AI Integration** <br>
-🏆 **3rd Place Winner in National Web Development Competition DINAMIK UPI 2019 Bandung, Indonesia**
+🏆 **3rd Place Winner in National Web Development Competition DINAMIK UPI 2019 Bandung, Indonesia** <br>
 📜 **Tensorflow Developer Certified**
 
 ---
