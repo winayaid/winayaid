@@ -30,8 +30,8 @@
 ### 🌐 Frontend Web
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=#35495E)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C48D?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
 
 ### 🌐 Mobile App
 ![React Native](https://img.shields.io/badge/React%20Native-0081A3?style=for-the-badge&logo=react&logoColor=white)
